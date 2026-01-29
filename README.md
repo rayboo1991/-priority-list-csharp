@@ -12,10 +12,8 @@ The goal of this project is to practice working with classes, lists, and basic p
 - Priority logic and user interaction still being developed
 
 ## Features (Planned)
-- Add items with a priority level
-- View all items sorted by priority
+- Add a File so that it saves the priority list for at least a week.
 - Simple console menu for user interaction
-- Input validation
 
 ## Tech Used
 - C#
