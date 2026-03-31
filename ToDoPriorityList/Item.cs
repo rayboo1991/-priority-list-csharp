@@ -42,7 +42,7 @@ namespace ToDoPriorityList
         // 12.30.2025 added ToString() method to show useful item information. 
         public override string ToString()
         {
-            return $"~{name}|{minutes}min|{priority}";
+            return $"-{name}|{minutes}min|{priority}";
         }
         
     }
